@@ -10,13 +10,13 @@ A full-stack intelligent task management app using **Django REST Framework**, **
 
 
 ### 🔹 AI-Powered Task Creation
-![Create Task Screenshot](./frontend/assets/create-task.png)
+![Create Task Screenshot](./frontend/assets/createtask.png)
 
 ### 🔹 Task List Dashboard
-![Task List Screenshot](./frontend/assets/task-list.png)
+![Task List Screenshot](./frontend/assets/tasklist.png)
 
 ### 🔹 Dark Mode Toggle
-![Dark Mode Screenshot](./frontend/assets/dark-mode.png)
+![Dark Mode Screenshot](./frontend/assets/darkmode.png)
 
 ---
 
